@@ -1,13 +1,18 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 650 120" role="img" aria-labelledby="title desc">
-<title id="title">STONEFORGE Professional Stone Tools</title><desc id="desc">Angular orange and silver S emblem beside STONEFORGE wordmark.</desc>
-<defs><linearGradient id="orange" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffb06b"/><stop offset=".45" stop-color="#f36b16"/><stop offset="1" stop-color="#a93e08"/></linearGradient><linearGradient id="silver" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff"/><stop offset=".55" stop-color="#d9d9d9"/><stop offset="1" stop-color="#929292"/></linearGradient></defs>
-<!-- layered angular S mark inspired by the reference -->
-<path d="M18 34 L73 4 L111 20 L72 43 L96 56 L43 88 L18 73 L54 53 Z" fill="#050505" opacity=".8" transform="translate(2 5)"/>
-<path d="M17 29 L72 0 L111 18 L75 39 L96 51 L43 83 L17 69 L53 49 Z" fill="url(#orange)"/>
-<path d="M72 0 L111 18 L75 39 L60 31 L84 18 L69 11 Z" fill="#ffd0a8"/>
-<path d="M17 69 L43 83 L96 51 L77 40 L55 53 L39 63 L48 69 L40 74 L27 67 Z" fill="url(#silver)"/>
-<path d="M42 35 L61 25 L75 33 L53 46 L68 55 L42 70 L30 64 L48 53 L33 44 Z" fill="#111" opacity=".8"/>
-<path d="M48 32 L65 23 L79 31 L56 45 L71 54 L45 68 L34 62 L52 52 L38 44 Z" fill="url(#silver)"/>
-<text x="135" y="51" font-family="Arial,Helvetica,sans-serif" font-size="43" font-weight="800" letter-spacing="3" fill="#f7f7f7">STONE<tspan fill="#f36b16">FORGE</tspan></text>
-<text x="137" y="79" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="600" letter-spacing="4.2" fill="#d5d5d5">PROFESSIONAL STONE TOOLS</text>
+<title id="title">STONEFORGE — Professional Stone Tools</title>
+<desc id="desc">Orange and silver angular S emblem with STONEFORGE wordmark.</desc>
+<defs>
+ <linearGradient id="orange" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffd0a8"/><stop offset=".42" stop-color="#f87926"/><stop offset="1" stop-color="#b7470c"/></linearGradient>
+ <linearGradient id="silver" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset=".55" stop-color="#dedede"/><stop offset="1" stop-color="#a0a0a0"/></linearGradient>
+</defs>
+<g transform="translate(5 10)">
+ <path d="M12 25 67 0 105 18 70 39 91 51 40 82 13 68 48 48 29 38Z" fill="#050505" opacity=".8" transform="translate(2 5)"/>
+ <path d="M12 25 67 0 105 18 70 39 91 51 40 82 13 68 48 48 29 38Z" fill="url(#orange)"/>
+ <path d="M67 0 105 18 70 39 55 31 79 18 64 11Z" fill="#ffe0c5"/>
+ <path d="M13 68 40 82 91 51 73 40 51 53 34 63 45 69 37 74 23 66Z" fill="url(#silver)"/>
+ <path d="M42 34 60 25 75 33 53 46 68 55 42 70 30 64 48 53 33 44Z" fill="#171717" opacity=".75"/>
+ <path d="M48 32 65 23 79 31 56 45 71 54 45 68 34 62 52 52 38 44Z" fill="url(#silver)"/>
+</g>
+<text x="135" y="51" font-family="Arial, Helvetica, sans-serif" font-size="43" font-weight="800" letter-spacing="3" fill="#f7f7f7">STONE<tspan fill="#f36b16">FORGE</tspan></text>
+<text x="137" y="79" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" letter-spacing="4.2" fill="#d5d5d5">PROFESSIONAL STONE TOOLS</text>
 </svg>
